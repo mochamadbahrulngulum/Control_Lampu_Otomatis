@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "872380493312",
+    "firebase_url": "https://uas-on-off-smartcity-default-rtdb.firebaseio.com",
+    "project_id": "uas-on-off-smartcity",
+    "storage_bucket": "uas-on-off-smartcity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872380493312:android:c0f30d3006b0876e7d72e5",
+        "android_client_info": {
+          "package_name": "com.example.onoffsmartcity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO428_lk7JvITc0Kszw7-fURbCI8WP78w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
